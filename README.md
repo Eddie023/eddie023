@@ -3,4 +3,4 @@
 
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Manish! From 🇳🇵 
 
-Current Tech Stack: React/Node/Typescript/Go
+### <h3> Current Tech Stack: React/Node/Typescript/Go
