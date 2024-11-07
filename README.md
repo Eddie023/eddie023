@@ -4,3 +4,5 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Manish! From 🇳🇵 Currently residing in 🇦🇺
 
 ### <h3> Current Tools: Go/AWS/Typescript
+
+<a href="https://data.typeracer.com/pit/profile?user=eddie023&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=eddie023" border="0" alt="TypeRacer.com scorecard for user eddie023"/></a>
